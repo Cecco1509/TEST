@@ -27,7 +27,7 @@ class BinTree<T>{
 
 let bt1 = new BinTree("pippo", 10);
 bt1.insert("pluto", 10);
-bt1.insert("paperino", 15);
+bt1.insert("paperino", 7);
 bt1.insert("qui", 3);
 bt1.insert("quo", 7);
 bt1.insert("qua", 17);
